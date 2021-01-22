@@ -128,3 +128,12 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea
+dataset/GrupoFleuryAgosto
+dataset/HSL_Agosto
+venv/
+.ipynb_checkpoints/
+dataset/GrupoFleuryAgosto_/
+
+dataset/HSL_Agosto_/final/
+
+dataset/HSL_Agosto_/
