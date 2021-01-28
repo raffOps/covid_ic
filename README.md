@@ -1,1 +1,1 @@
-# covid_ic
+# Notebooks escritos dentro do projeto de Bolsa IC CNPQ cujo objetivo é estudar biomarcadores de casos graves de COVID-19
